@@ -1,0 +1,5 @@
+/* nth-child: 부모 요소의 n번째 자식 요소 */
+/* 첫번째는 h2, 두번째가 첫번째 p */
+#hphk > p:nth-child(2) {
+  color: blue;
+}
